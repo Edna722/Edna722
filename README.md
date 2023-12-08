@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edna Wanjiku</h1>
 <h3 align="center">A passionate Data Scientist from Kenya</h3>
 
-<img align="right" alt="Coding" width="400" src="images/Resource-Ft-Image-Aug-19-Joy-43.png">
+<img align="right" alt="Coding" width="400" src="https://wowcaption.com/coding.jpg">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edna722&label=Profile%20views&color=0e75b6&style=flat" alt="edna722" /> </p>
 
